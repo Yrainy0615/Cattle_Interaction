@@ -1,4 +1,4 @@
-# Cattle Interaction Recognition Via Skeleton
+# Cattle Interaction Recognition Via Skeleton data
 This is a repo for cattle behavior recognition based on skeleton. First, use YOLOX to complete the animal detection, then cut out the area of the corresponding animal and input it to HRNet to complete the skeleton recognition, and finally pack and input the multi frame skeleton information into ST-GCN to complete the action recognition and interaction recognition.
 
 
