@@ -10,7 +10,7 @@ This is a repo for cattle behavior recognition based on skeleton. First, use YOL
 2、yolox config, see details at: https://github.com/Megvii-BaseDetection/YOLOX
 
 
-## Download pretrain weight(Baidu netdisk)
+## Download pretrain weight(Dropbox)
 
 object detetion：
 
